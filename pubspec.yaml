@@ -1,0 +1,28 @@
+name: rolling_number_ticker
+description: A mechanical slot-machine vertical rolling number ticker for Flutter with directional physics, trend glow pulses, and currency formatting.
+version: 0.0.1
+homepage: https://github.com/BalochCodes/rolling_number_ticker
+repository: https://github.com/BalochCodes/rolling_number_ticker
+issue_tracker: https://github.com/BalochCodes/rolling_number_ticker/issues
+
+topics:
+  - counter
+  - number-ticker
+  - animation
+  - fintech
+  - ui
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
